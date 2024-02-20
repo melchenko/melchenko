@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently studying at Vinnytsia National Technical University
+🌱 I’m currently learning JAVA
 
 <!--
 **melchenko/melchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
